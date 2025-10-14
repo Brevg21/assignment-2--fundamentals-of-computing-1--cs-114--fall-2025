@@ -12,7 +12,7 @@
 3. Clone your fork, using either the web site or the GitHub Desktop client.
 4. Checkout your personalized branch, the one with your name and GitHub handle.
 
----
+--- 
 
 ## ❖・Assignment・❖
 
