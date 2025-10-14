@@ -22,27 +22,27 @@ public class TheTwelveDaysOfChristmas {
       suffix++;
       switch (eachNewLineAdded){
         default ->  System.out.println(dayOfChristmas + "\nA partridge on a pear tree\n");
-        case 1 ->  System.out.println(dayOfChristmas + "\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 1 ->  System.out.println(dayOfChristmas + "\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 2 -> System.out.println(dayOfChristmas + "\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 2 -> System.out.println(dayOfChristmas + "\nThree french hens\nTwo turtls doves and\nA partridge in a pear tree\n");
 
-        case 3 ->  System.out.println(dayOfChristmas + "\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 3 ->  System.out.println(dayOfChristmas + "\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 4 ->  System.out.println(dayOfChristmas + "\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 4 ->  System.out.println(dayOfChristmas + "\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 5 ->  System.out.println(dayOfChristmas + "\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 5 ->  System.out.println(dayOfChristmas + "\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 6 ->  System.out.println(dayOfChristmas + "\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 6 ->  System.out.println(dayOfChristmas + "\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 7 ->  System.out.println(dayOfChristmas + "\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 7 ->  System.out.println(dayOfChristmas + "\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 8 ->  System.out.println(dayOfChristmas + "\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golen rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 8 ->  System.out.println(dayOfChristmas + "\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golen rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 9 ->  System.out.println(dayOfChristmas + "\nTen lords a-leaping\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 9 ->  System.out.println(dayOfChristmas + "\nTen lords a-leaping\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 10 ->  System.out.println(dayOfChristmas + "\nEleven pipers piping\nTen lords a-leaping\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 10 ->  System.out.println(dayOfChristmas + "\nEleven pipers piping\nTen lords a-leaping\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
 
-        case 11 ->  System.out.println(dayOfChristmas + "\nTwelve drummers drumming\nEleven pipers piping\nTen lords a-leaping\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turles doves and\nA partridge in a pear tree\n");
+        case 11 ->  System.out.println(dayOfChristmas + "\nTwelve drummers drumming\nEleven pipers piping\nTen lords a-leaping\nNine ladies dancing\nEight maids a-milking\nSeven swans a-swimming\nSix geese a-laying\nFive golden rings\nFour calling birds\nThree french hens\nTwo turtle doves and\nA partridge in a pear tree\n");
       }
       eachNewLineAdded++;
     }

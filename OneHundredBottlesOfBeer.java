@@ -25,7 +25,7 @@ public class OneHundredBottlesOfBeer {
         System.out.println(numberOfBottles + " bottle of beer on the wall\n" + numberOfBottles + " bottle of beer\nIf one of those bottles should happen to fall");
       }
       else if (numberOfBottles > 1){
-        System.out.println(numberOfBottles + " bottles of beer on the wall \n" + numberOfBottles + " bottles of beer\nIf one of those bottles should happen to fall");
+        System.out.println(numberOfBottles + " bottles of beer on the wall\n" + numberOfBottles + " bottles of beer\nIf one of those bottles should happen to fall");
       }
       numberOfBottles--;
 
